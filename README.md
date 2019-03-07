@@ -10,9 +10,9 @@ __Inloggning(som kund):__ Användarnamn: _199712240093_ | Lösenord: _abc123_
 
 Kontakta mig för få tillgång till inloggning som administratör.
 
-<strong><a href="https://albinronnkvist.se/skola/dt068g/webbanvandbarhet/index.php" target="_blank">Webbplats</a></strong>
+[__Webbplats__](https://albinronnkvist.se/skola/dt068g/webbanvandbarhet/index.php) 
 |
-<strong><a href="https://albinronnkvist.se/skola/dt068g/Projekt%20-%20F%C3%A4rdtj%C3%A4nst.pdf" target="_blank">Rapport</a></strong>
+[__Rapport__](https://albinronnkvist.se/skola/dt068g/Projekt%20-%20F%C3%A4rdtj%C3%A4nst.pdf)
 
 
 ## Installation
