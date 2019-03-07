@@ -6,9 +6,9 @@ __Av:__ Albin Rönnkvist
 En webbplats för online-bokning av färdtjänstresor samt administrering av färdtjänstresenärer.
 (Fortfarande WIP, fokus låg på rapporten i denna kurs)
 
-__Inloggning(som kund):__ Användarnamn: _199712240093_ | Lösenord: _abc123_
-
-Kontakta mig för få tillgång till inloggning som administratör.
+__Inloggning:__ 
+* Som kund: _användarnamn: __199712240093___  |  _lösenord: __abc123___
+* Som admin: _kontakta mig för få tillgång till inloggning som administratör._
 
 [__Webbplats__](https://albinronnkvist.se/skola/dt068g/webbanvandbarhet/index.php) 
 |
