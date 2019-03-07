@@ -8,7 +8,7 @@ En webbplats för online-bokning av färdtjänstresor samt administrering av fä
 
 __Inloggning:__ 
 * Som kund: _användarnamn: __199712240093___  |  _lösenord: __abc123___
-* Som admin: _kontakta mig för få tillgång till inloggning som administratör._
+* Som admin: _kontakta mig för att få tillgång till inloggning som administratör._
 
 [__Webbplats__](https://albinronnkvist.se/skola/dt068g/webbanvandbarhet/index.php) 
 |
