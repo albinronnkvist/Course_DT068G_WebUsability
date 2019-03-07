@@ -15,4 +15,4 @@ Kontakta mig för få tillgång till inloggning som administratör.
 [__Rapport__](https://albinronnkvist.se/skola/dt068g/Projekt%20-%20F%C3%A4rdtj%C3%A4nst.pdf)
 
 ## Installation
-1. Ladda ned projektet med kommandot: _git clone https://github.com/albinronnkvist/Webbanv-ndbarhet_
+1. Ladda ned projektet med kommandot: _git clone https://github.com/albinronnkvist/Kurs_Webbanv-ndbarhet_
